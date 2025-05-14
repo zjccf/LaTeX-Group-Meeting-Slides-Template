@@ -1,1 +1,0 @@
-# LaTeX-Group-Meeting-Slides-Template
