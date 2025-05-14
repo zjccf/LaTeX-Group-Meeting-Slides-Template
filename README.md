@@ -9,8 +9,8 @@ Unofficial Latex Sun Yat-sen University Beamer template, supports bilingual, sui
 
 ## 使用说明
 
-- **main.tex：内容编辑文件**
-- **latex.json：vscode的代码片段配置文件（可选）**
-- **fig：存放ppt用到的图片**
+ **main.tex：内容编辑文件**
+ **latex.json：vscode的代码片段配置文件（可选）**
+ **fig：存放ppt用到的图片**
 
 **本地配置好latex编译器即可一键编译**
