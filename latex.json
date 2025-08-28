@@ -84,7 +84,6 @@
 		// "scope": "tex",
 		"prefix": "minipage",
 		"body": [
-			"\\begin{equation*}",
 			"\t\\begin{minipage}[t][0.45\\textheight][t]{\\textwidth}",
 			"\t    \\frametitle{上半部分标题}",
 			"\t    \\begin{itemize}",
@@ -105,7 +104,6 @@
 			"\t    \\centering",
 			"\t    \\includegraphics[width=0.5\\textwidth]{example-image-b} % 示例图片",
 			"\t\\end{minipage}",
-			"\\end{equation*}",
 		],
 		"description": "Quick input minipage"
 	}
