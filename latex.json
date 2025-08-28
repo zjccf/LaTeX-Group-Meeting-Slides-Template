@@ -85,7 +85,7 @@
 		"prefix": "minipage",
 		"body": [
 			"\t\\begin{minipage}[t][0.45\\textheight][t]{\\textwidth}",
-			"\t    \\frametitle{上半部分标题}",
+			// "\t    \\frametitle{上半部分标题}",
 			"\t    \\begin{itemize}",
 			"\t      \\item 这是上半部分的内容。",
 			"\t    \\end{itemize}",
@@ -97,7 +97,7 @@
 			"",
 			"\t  % 下半部分",
 			"\t  \\begin{minipage}[b][0.45\\textheight][t]{\\textwidth}",
-			"\t    \\frametitle{下半部分标题}",
+			// "\t    \\frametitle{下半部分标题}",
 			"\t    \\begin{itemize}",
 			"\t      \\item 这是下半部分的内容。",
 			"\t    \\end{itemize}",
